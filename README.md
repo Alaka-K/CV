@@ -10,8 +10,8 @@ After taking an hiatus from radiography and while during my travels I stumbled a
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+|[**Mappin**](https://github.com/Alaka-K/world-map-game)           | Final Group Project - A multiplayer interactive online world map geoguessing game | Next.js, React, Socket.io, Mapbox, Jest, Cypress |
+|[**Acebook**](https://github.com/Alaka-K/acebook-rails-template-simple) | Facebook clone | Rails, JavaScript, PostgreSQL, RSpec, Capybara              |
 
 ## Work Experience
 
