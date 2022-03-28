@@ -15,8 +15,11 @@ After taking an hiatus from radiography and while during my travels I stumbled a
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Charing Cross hospital** (April 2017 - September 2019)  
+_Senior Radiographer_
+
+**Charing Cross hospital** (November 2015 - March 2017)  
+_Junior Radiographer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -26,6 +29,10 @@ _Your job title_
 - Any experience relevent to software development
 
 ## Skills
+- teamwork
+- Motivated
+- Problem solving
+- Fast learner
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
