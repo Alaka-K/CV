@@ -1,6 +1,10 @@
 ## Kehinde Alaka
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After taking an hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
+
+ I was inspired to work in the tech industry as it is extremely versatile and constantly changing. The tech industry is a thriving sector that intersects with nearly every other industry allowing software developers to work in various fields. My passion for learning new things and desiring a career that challenges me led me to a carrer switch. I was fortunate to be accepted onto the Makers Academy skills bootcamp.
+
+16 intensive weeks later, I've graduated as a Full Stack Junior Developer. I'm eager to advance my knowledge and skills as a developer. I would love the opportunity to be part of a friendly and supportive team where I can enhance my skills and contribute to amazing and innovative projects.
 
 ## Projects
 
