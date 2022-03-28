@@ -73,11 +73,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### City, University of London (September 2012 - June 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Radiography (Diagnostic Imaging) BSc (Hons) 1st class
+
+
+#### William Morris Sixth Form (2010 - 2012)
+
+- Maths(A2)
+- Chemestry(A2)
+- Physics(A2) 
+- Physcology(AS) 
 
 #### Any other qualifications
 
