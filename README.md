@@ -12,22 +12,20 @@ After taking an hiatus from radiography and while during my travels I stumbled a
 | ---------------------------- | ----------------- | ----------------- |
 |[**Mappin**](https://github.com/Alaka-K/world-map-game)           | Final Group Project - A multiplayer interactive online world map geoguessing game | Next.js, React, Socket.io, Mapbox, Jest, Cypress |
 |[**Acebook**](https://github.com/Alaka-K/acebook-rails-template-simple) | Facebook clone | Rails, JavaScript, PostgreSQL, RSpec, Capybara              |
-
+|[**Bank Tech Test**](https://github.com/Alaka-K/Bank_Tech_Test)  | A command-line program that allowing you to create a bank account, make deposits, withdraw money, and print statements. | Ruby and Rspec |
 ## Work Experience
 
 **Charing Cross hospital** (April 2017 - September 2019)  
 _Senior Radiographer_
 
+- Direct and supervise the workload in areas such CT, Theatres and general x-ray.
+- Work effectively within a multidisciplinary team to deliver a high standard of care. 
 **Charing Cross hospital** (November 2015 - March 2017)  
 _Junior Radiographer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
+- Provide high level of care to patients by examining requests and patients condition to see if requests are justified. 
+- Supervise the practice and assess the progress of students, ensuring that professional standards are  developed and attained.
+- Operate autonomously when providing an out of hour’s service to patients requiring urgent imaging due to acute trauma or illness. 
 ## Skills
 - teamwork
 - Motivated
