@@ -20,6 +20,7 @@ _Senior Radiographer_
 
 - Direct and supervise the workload in areas such CT, Theatres and general x-ray.
 - Work effectively within a multidisciplinary team to deliver a high standard of care. 
+
 **Charing Cross hospital** (November 2015 - March 2017)  
 _Junior Radiographer_
 
@@ -27,10 +28,18 @@ _Junior Radiographer_
 - Supervise the practice and assess the progress of students, ensuring that professional standards are  developed and attained.
 - Operate autonomously when providing an out of hour’s service to patients requiring urgent imaging due to acute trauma or illness. 
 ## Skills
-- teamwork
-- Motivated
-- Problem solving
-- Fast learner
+### Teamwork
+
+Teamwork is an intergral part of working as a radiographer. For the majority of areas we work in, mulitple radigoraphers are required to provide an efficient service. Working in arears such as CT and MRI, two to three radiographers are assigned to a scanner, we would then collectivly plan our workflow. Our individual roles are reliant on one another, this has lead me to gain clear communication skills and allowed me to work comfortable with a range of people.
+This ability to work effectivly within a team proved extremely helpful while on the Makers bootcamp. We paired with other programmers on a daily basis as well as working collaborativly in group projects.
+
+### Motivated
+
+I'm a highly motivated individual who is eager to accomplish my goals. As a junior radiographer I had a desire to learn as much as possible to better develop my skills and make me a versitile radiographer. This persuit led me to vounterrly train as a PAC radiographer and as one of the key radiographer to work autonamsly within the fluroscopic room.
+Since completing the makers bootcamp, I've enrolled onto the CS50 Introduction to computer science course as well as signed up to group coding sessions run by [**ladies of Code**](https://www.ladiesofcode.com/)
+### Problem solving
+
+### Fast learner
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -82,6 +91,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Chemestry(A2)
 - Physics(A2) 
 - Physcology(AS) 
+
+#### Shene International School
+
+- 11 GCSE’s including English, Maths and Sciences A* - C
 
 #### Any other qualifications
 
