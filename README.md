@@ -1,6 +1,6 @@
 ## Kehinde Alaka
 
-[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education) | [HOBBIES](#hobbies)
 
 After taking a hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
 
@@ -58,8 +58,10 @@ CS50's Introduction to Computer Science
 - Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
 - Focus on Test Driven Development, object oriented programming & software design
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, Sinatra, JavaScript, Node.js
+- RSpec, Jest
+- MVC framework pattern
+- EQ curriculum and received training in team work, feedback, empathy, and having a growth mindset
 
 #### Lesanularab (2019-2020)
 - Read and write Arabic characters
