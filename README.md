@@ -1,6 +1,6 @@
 ## Kehinde Alaka
 
-After taking an hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
+After taking a hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
 
  I was inspired to work in the tech industry as it is extremely versatile and constantly changing. The tech industry is a thriving sector that intersects with nearly every other industry allowing software developers to work in various fields. My passion for learning new things and desiring a career that challenges me led me to a career switch. I was fortunate to be accepted onto the Makers Academy skills bootcamp.
 
@@ -37,25 +37,11 @@ This ability to work effectively within a team proved extremely helpful while on
 
 I'm a highly motivated individual that is eager to accomplish my goals. As a junior radiographer I had a desire to learn as much as possible to better develop my skills and make me a versatile radiographer. This pursuit led me to voluntarily train as a PAC radiographer and as one of the key radiographer to work autonomously within the designated fluoroscopic room.
 Since completing the Makers bootcamp, I've enrolled onto the CS50 Introduction to computer science course as well as signed up to group coding sessions run by [**Ladies of Code**](https://www.ladiesofcode.com/)
-### Fast learner
+### Problem solving
+### Problem solving
+As part of my role as a PAC's radiographer I regularly had to solve issues pertaining to missing images. On one occasion, a radiologist notified me that there were images that required urgent reporting, however the examination was completed without any images being present in the patients folder. I had to use a systemic approach to investigate why the examination was document as completed but there were no images.
+During my time at Makers, I had to apply those problem solving skills to the different challenges. We learnt early on at Makers to deconstructing problems into smaller parts, and focus on that challenge before moving on. A new concept that I learnt which really aided my problem solving skills was debugging. We learnt various techniques which helped me determinate errors that weren’t immediately apparent. 
 
-I genuinely take pleasure in learning new things. As a 
-
-
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
 
 ## Education
 
