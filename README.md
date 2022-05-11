@@ -1,6 +1,7 @@
 ## Kehinde Alaka
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
+
 After taking a hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
 
  I was inspired to work in the tech industry as it is extremely versatile and constantly changing. The tech industry is a thriving sector that intersects with nearly every other industry allowing software developers to work in various fields. My passion for learning new things and desiring a career that challenges me led me to a career switch. I was fortunate to be accepted onto the Makers Academy skills bootcamp.
@@ -29,7 +30,7 @@ As part of my role as a PAC's radiographer I regularly had to solve issues perta
 During my time at Makers, I had to apply those problem solving skills to the different challenges. We learnt early on at Makers to deconstructing problems into smaller parts, and focus on that challenge before moving on. A new concept that I learnt which really aided my problem solving skills was debugging. We learnt various techniques which helped me determinate errors that weren’t immediately apparent. 
 
 
-## Work Experience
+## Experience
 
 **Charing Cross hospital** (April 2017 - September 2019)  
 _Senior Radiographer_
