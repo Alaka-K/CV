@@ -1,5 +1,6 @@
 ## Kehinde Alaka
 
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies)
 After taking a hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
 
  I was inspired to work in the tech industry as it is extremely versatile and constantly changing. The tech industry is a thriving sector that intersects with nearly every other industry allowing software developers to work in various fields. My passion for learning new things and desiring a career that challenges me led me to a career switch. I was fortunate to be accepted onto the Makers Academy skills bootcamp.
@@ -13,20 +14,6 @@ After taking a hiatus from radiography and while during my travels I stumbled ac
 |[**Mappin**](https://github.com/Alaka-K/world-map-game)           | Final Group Project - A multiplayer interactive online world map geoguessing game | Next.js, React, Socket.io, Mapbox, Jest, Cypress |
 |[**Acebook**](https://github.com/Alaka-K/acebook-rails-template-simple) | Facebook clone | Rails, JavaScript, PostgreSQL, RSpec, Capybara              |
 |[**Bank Tech Test**](https://github.com/Alaka-K/Bank_Tech_Test)  | A command-line program that allowing you to create a bank account, make deposits, withdraw money, and print statements. | Ruby and Rspec |
-## Work Experience
-
-**Charing Cross hospital** (April 2017 - September 2019)  
-_Senior Radiographer_
-
-- Direct and supervise the workload and junior members of staff in areas such CT, Theatres and general x-ray.
-- Work effectively within a multidisciplinary team to deliver a high standard of care. 
-
-**Charing Cross hospital** (November 2015 - March 2017)  
-_Junior Radiographer_
-
-- Provide high level of care to patients by examining requests and the patients condition to see if requests are justified. 
-- Supervise the practice and assess the progress of students, ensuring that professional standards are developed and attained.
-- Operate autonomously when providing an out of hour’s service to patients requiring urgent imaging due to acute trauma or illness. 
 ## Skills
 ### Teamwork
 
@@ -38,11 +25,24 @@ This ability to work effectively within a team proved extremely helpful while on
 I'm a highly motivated individual that is eager to accomplish my goals. As a junior radiographer I had a desire to learn as much as possible to better develop my skills and make me a versatile radiographer. This pursuit led me to voluntarily train as a PAC radiographer and as one of the key radiographer to work autonomously within the designated fluoroscopic room.
 Since completing the Makers bootcamp, I've enrolled onto the CS50 Introduction to computer science course as well as signed up to group coding sessions run by [**Ladies of Code**](https://www.ladiesofcode.com/)
 ### Problem solving
-### Problem solving
 As part of my role as a PAC's radiographer I regularly had to solve issues pertaining to missing images. On one occasion, a radiologist notified me that there were images that required urgent reporting, however the examination was completed without any images being present in the patients folder. I had to use a systemic approach to investigate why the examination was document as completed but there were no images.
 During my time at Makers, I had to apply those problem solving skills to the different challenges. We learnt early on at Makers to deconstructing problems into smaller parts, and focus on that challenge before moving on. A new concept that I learnt which really aided my problem solving skills was debugging. We learnt various techniques which helped me determinate errors that weren’t immediately apparent. 
 
 
+## Work Experience
+
+**Charing Cross hospital** (April 2017 - September 2019)  
+_Senior Radiographer_
+
+- Direct and supervise the workload of junior members of staff in areas such CT, Theatres and general x-ray.
+- Work effectively within a multidisciplinary team to deliver a high standard of care. 
+
+**Charing Cross hospital** (November 2015 - March 2017)  
+_Junior Radiographer_
+
+- Provide high level of care to patients by examining requests and the patients condition to see if requests are justified. 
+- Supervise the practice and assess the progress of students, ensuring that professional standards are developed and attained.
+- Operate autonomously when providing an out of hour’s service to patients requiring urgent imaging due to acute trauma or illness. 
 ## Education
 
 #### Harvard University (April 2022 - Present)
