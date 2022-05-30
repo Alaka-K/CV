@@ -18,7 +18,7 @@ After taking a hiatus from radiography and while during my travels I stumbled ac
 ## Skills
 ### Teamwork
 
-Teamwork is an integral part of working as a radiographer. For the majority of areas we work in, multiple radiographers are required to provide an efficient service. Working in arears such as CT and MRI, two to three radiographers are assigned to a scanner, we would then collectively plan our workflow. Our individual roles are reliant on one another, this has led me to gain clear communication skills and allowed me to work comfortable with a range of people.
+Teamwork is an integral part of working as a radiographer. For the majority of areas we work in, multiple radiographers are required to provide an efficient service. Working in arears such as CT and MRI, two to three radiographers are assigned to a scanner, we would then collectively plan our workflow. Our individual roles are reliant on one another, this has led me to gain clear communication skills and allowed me to work comfortably with a range of people.
 This ability to work effectively within a team proved extremely helpful while on the Makers bootcamp. We paired with other programmers on a daily basis as well as working collaboratively in group projects.
 
 ### Motivated
