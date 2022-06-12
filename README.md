@@ -4,9 +4,9 @@
 
 After taking a hiatus from radiography and while during my travels I stumbled across coding and I haven't been able to stop since!
 
- I was inspired to work in the tech industry as it is extremely versatile and constantly changing. The tech industry is a thriving sector that intersects with nearly every other industry allowing software developers to work in various fields. My passion for learning new things and desiring a career that challenges me led me to a career switch. I was fortunate to be accepted onto the Makers Academy skills bootcamp.
-
-16 intensive weeks later, I've graduated as a Full Stack Junior Developer. I'm eager to advance my knowledge and skills as a developer. I would love the opportunity to be part of a friendly and supportive team where I can enhance my skills and contribute to amazing and innovative projects.
+ I was really inspired by the fact that the tech industry intersects with nearly every other industry allowing software developers to work in various fields. My passion for learning new things and desiring a career that challenges me led me to a career switch.
+ 
+ I've graduated as a Full Stack Junior Developer. I'm eager to advance my knowledge and skills as a developer. I would love the opportunity to be part of a friendly and supportive team where I can enhance my skills and contribute to amazing and innovative projects.
 
 ## Projects
 
@@ -48,26 +48,18 @@ CS50's Introduction to Computer Science
 - MVC framework pattern
 - EQ curriculum and received training in team work, feedback, empathy, and having a growth mindset
 
-#### Lesanularab (2019-2020)
+#### Lesanularab - Arabic for non-native speakers (2019-2020)
 - Read and write Arabic characters
 - Read and understand simple sentences in classical Arabic
 - Understand basic grammatical structures
 
-#### City, University of London (September 2012 - June 2015)
+#### City, University of London - Radiography (September 2012 - June 2015)
 
-- Radiography (Diagnostic Imaging) BSc (Hons)
+- Diagnostic Imaging BSc (Hons)
 - 1st class
-
-#### William Morris Sixth Form (2010 - 2012)
-
-- Maths(A2)
-- Chemistry(A2)
-- Physics(A2) 
-- Psychology (AS) 
-
-#### Shene International School
-
-- 11 GCSE’s including English, Maths and Sciences A* - C
+- Professional Practice in Medical Imaging
+- Radiography Research & Statistics
+- Science of Medical Imaging
 
 ## Experience
 
@@ -75,7 +67,7 @@ CS50's Introduction to Computer Science
 _Senior Radiographer_
 
 - Direct and supervise the workload of junior members of staff in areas such CT, Theatres and general x-ray.
-- Work effectively within a multidisciplinary team to deliver a high standard of care. 
+- Collaborate effectively within a multidisciplinary team to deliver a high standard of care. 
 
 **Charing Cross hospital** (November 2015 - March 2017)  
 _Junior Radiographer_
